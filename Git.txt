@@ -5,3 +5,7 @@ Creating a file in my git repository.
 
 Making a edit in my file in git
 
+error in file.
+
+git file done.
+
