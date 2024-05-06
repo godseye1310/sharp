@@ -5,7 +5,14 @@ Creating a file in my git repository.
 
 Making a edit in my file in git
 
+Adding mahor feature in file.
+->feature 1
+->deature 2
+
 git file done.
 
+version 2 done.
+
 Done with Final version
+
 
