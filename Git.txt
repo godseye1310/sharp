@@ -5,7 +5,9 @@ Creating a file in my git repository.
 
 Making a edit in my file in git
 
-error in file.
+Adding mahor feature in file.
+->feature 1
+->deature 2
 
 git file done.
 
