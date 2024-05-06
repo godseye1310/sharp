@@ -2,3 +2,6 @@ Welcome to My Git Repository
 
 Creating a Repository in Git.
 Creating a file in my git repository.
+
+Making a edit in my file in git
+
